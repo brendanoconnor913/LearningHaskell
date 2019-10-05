@@ -1,0 +1,52 @@
+
+package: hello-1.0.0.2
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.9.0
+flags: -threaded
+dependencies: base-4.8.2.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: hello-1.0.0.2
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.9.0
+flags: -threaded
+dependencies: base-4.8.2.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: hello-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.9.0
+dependencies: base-4.8.2.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: hello-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.9.0
+dependencies: base-4.8.2.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: hello-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.3
+client: cabal-install-1.22.9.0
+dependencies: base-4.8.2.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried

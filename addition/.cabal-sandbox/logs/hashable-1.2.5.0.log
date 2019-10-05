@@ -1,0 +1,18 @@
+Configuring hashable-1.2.5.0...
+Building hashable-1.2.5.0...
+Preprocessing library hashable-1.2.5.0...
+[1 of 4] Compiling Data.Hashable.Class ( Data/Hashable/Class.hs, dist/dist-sandbox-7c53557b/build/Data/Hashable/Class.o )
+
+Data/Hashable/Class.hs:594:28: Warning:
+    In the use of ‘B.inlinePerformIO’
+    (imported from Data.ByteString.Internal):
+    Deprecated: "If you think you know what you are doing, use 'unsafePerformIO'. If you are sure you know what you are doing, use 'unsafeDupablePerformIO'. If you enjoy sharing an address space with a malevolent agent of chaos, try 'accursedUnutterablePerformIO'."
+[2 of 4] Compiling Data.Hashable.Generic ( Data/Hashable/Generic.hs, dist/dist-sandbox-7c53557b/build/Data/Hashable/Generic.o )
+[3 of 4] Compiling Data.Hashable.Lifted ( Data/Hashable/Lifted.hs, dist/dist-sandbox-7c53557b/build/Data/Hashable/Lifted.o )
+[4 of 4] Compiling Data.Hashable    ( Data/Hashable.hs, dist/dist-sandbox-7c53557b/build/Data/Hashable.o )
+In-place registering hashable-1.2.5.0...
+Creating package registration file:
+/tmp/pkgConf-hashable-1.2.510639580311633108117.0
+Installing library in
+/home/brendan/HaskellFiles/addition/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/hashable-1.2.5.0-LE2UFubC9as3EJAHixehkg
+Registering hashable-1.2.5.0...

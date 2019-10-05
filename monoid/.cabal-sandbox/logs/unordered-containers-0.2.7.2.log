@@ -1,0 +1,17 @@
+Configuring unordered-containers-0.2.7.2...
+Building unordered-containers-0.2.7.2...
+Preprocessing library unordered-containers-0.2.7.2...
+[1 of 8] Compiling Data.HashMap.UnsafeShift ( Data/HashMap/UnsafeShift.hs, dist/dist-sandbox-663a1452/build/Data/HashMap/UnsafeShift.o )
+[2 of 8] Compiling Data.HashMap.PopCount ( Data/HashMap/PopCount.hs, dist/dist-sandbox-663a1452/build/Data/HashMap/PopCount.o )
+[3 of 8] Compiling Data.HashMap.Unsafe ( Data/HashMap/Unsafe.hs, dist/dist-sandbox-663a1452/build/Data/HashMap/Unsafe.o )
+[4 of 8] Compiling Data.HashMap.Array ( Data/HashMap/Array.hs, dist/dist-sandbox-663a1452/build/Data/HashMap/Array.o )
+[5 of 8] Compiling Data.HashMap.Base ( Data/HashMap/Base.hs, dist/dist-sandbox-663a1452/build/Data/HashMap/Base.o )
+[6 of 8] Compiling Data.HashMap.Strict ( Data/HashMap/Strict.hs, dist/dist-sandbox-663a1452/build/Data/HashMap/Strict.o )
+[7 of 8] Compiling Data.HashMap.Lazy ( Data/HashMap/Lazy.hs, dist/dist-sandbox-663a1452/build/Data/HashMap/Lazy.o )
+[8 of 8] Compiling Data.HashSet     ( Data/HashSet.hs, dist/dist-sandbox-663a1452/build/Data/HashSet.o )
+In-place registering unordered-containers-0.2.7.2...
+Creating package registration file:
+/tmp/pkgConf-unordered-containers-0.2.71036140795463480570.2
+Installing library in
+/home/brendan/HaskellFiles/monoid/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/unordered-containers-0.2.7.2-G0asitZimPGA324M6Php7h
+Registering unordered-containers-0.2.7.2...
